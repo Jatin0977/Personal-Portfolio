@@ -22,7 +22,7 @@ export const personal = {
   interests: ["Artificial Intelligence", "ML", "Gen-AI"],
   hobbies: ["Gaming", "Photography", "Competitive coding"],
   currentlyReading: "Designing Data-Intensive Applications",
-  openTo: "Web dev roles, research internships", 
+  openTo: "Web dev roles, data analyst, research internships", 
   stats: [
     { value: "3", suffix: "+", label: "Projects Built" },
    // { value: "3",  suffix: "+", label: "Internships" },//
@@ -73,7 +73,7 @@ export const projects = [
     title: "Sentiment Analyzer – Review Classification",
     desc: "Developed an NLP-based sentiment analysis web application using VADER, TextBlob, and Logistic Regression for review classification",
     stack: ["Python", "Scikit-learn", "VADER", "Streamlit", "TextBlob"],
-    url: "https://github.com/Jatin0977/Sentiment_Analyzer",
+    url: "https://github.com/Jatin0977/SentiScan-AI",
   },
   {
     num: "002",
@@ -87,7 +87,14 @@ export const projects = [
     title: "PlayPlex – Multi-Dimensional Gaming Platform",
     desc: "ML-powered network intrusion detection system. Trained on NSL-KDD dataset, achieving 97.8% accuracy. Built a live dashboard with D3.js to visualize traffic patterns.",
     stack: ["Python", "Scikit-learn", "D3.js"],
-    url: "#",
+    url: "https://github.com/Jatin0977/Playplex-a-gaming-platforn",
+  },
+  {
+    num: "004",
+    title: "Insight AI -AI powered Data Analysis Assistant",
+    desc: "AI powered Data analysis assistant that enables users to upload CSV and Excel Datasets and performs Natural Language Queries using GPT 4.0 for intelligent data exploration",
+    stack: ["Python", "Scikit-learn", "Agno" , "SQL" , "OpenAI GPT4.0"],
+    url: "https://github.com/Jatin0977/Ai-data-analyst",
   },
   //{
    // num: "004",
