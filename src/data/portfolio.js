@@ -37,7 +37,7 @@ export const contact = {
   linkedinUrl: "https://www.linkedin.com/in/jatin-kumar-319118299?utm_source=share_via&utm_content=profile&utm_medium=member_android",
   github: "github.com/jatinkumar",
   githubUrl: "https://github.com/Jatin0977",
-  resumeUrl: "https://drive.google.com/file/d/1qKOBVvAkE2J_DFLkfenYJby0ryhNjKEA/view?usp=sharing"
+  resumeUrl: "https://drive.google.com/file/d/11ZkSqd95m4uUGeinyBzDN9NNvbHNtO4V/view?usp=sharing"
 };
 
 export const skills = [
