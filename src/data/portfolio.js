@@ -96,13 +96,13 @@ export const projects = [
     stack: ["Python", "Scikit-learn", "Agno" , "SQL" , "OpenAI GPT4.0"],
     url: "https://github.com/Jatin0977/Ai-data-analyst",
   },
-  //{
-   // num: "004",
-    //title: "FluxDB — Distributed Key-Value Store",
-    //desc: "Developed a multi-game platform featuring chess, hangman, snake, and other interactive browser games.",
-    //stack: ["HTML", "CSS", "Javascript"],
-    //url: "#",
-  //},
+  {
+   num: "005",
+    title: "Placement Intelligence System",
+    desc: " Built a Corrective RAG-based placement assistant to analyze 3+ company JDs for technical skills, eligibility criteria, and role requirements using Python, Streamlit, Qdrant, and Ollama",
+    stack: ["Python", "Langchain", "CRAG", "Ollama"],
+    url: "https://github.com/Jatin0977/placement-intelligence-system",
+  },
   ///{
    // num: "005",
     //title: "GlanceAI — Visual Search Engine",
