@@ -103,13 +103,14 @@ export const projects = [
     stack: ["Python", "Langchain", "CRAG", "Ollama"],
     url: "https://github.com/Jatin0977/placement-intelligence-system",
   },
-  ///{
-   // num: "005",
-    //title: "GlanceAI — Visual Search Engine",
-    //desc: "Multimodal search engine using CLIP embeddings. Upload any image or type any query and retrieve semantically similar images from a 1M+ image index in under 200ms.",
-    //stack: ["Python", "FastAPI", "CLIP"],
-    //url: "#",
-  //},
+  {
+   num: "006",
+    title: "Crop Disease Detection Using Image",
+    desc: "AI-powered crop disease detection system using **deep learning and transfer learning** to classify leaf images into **38 disease/healthy categories across 14 crop types**. Integrated the trained model into a web application with image-based prediction and chatbot assistance.
+",
+    stack: ["Python", "Flask", "Deep Learning", "HTML/CSS/JavaScript"],
+    url: "https://github.com/Jatin0977/Crop_Disease_Detection/",
+  },
   //{
     //num: "006",
     //title: "ByteBoard — Developer Portfolio CMS",
